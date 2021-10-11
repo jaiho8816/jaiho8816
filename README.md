@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaiho8816
-- 👀 I’m interested in python and Django technology.
-- 🌱 I’m currently learning Django technology
-- 💞️ I’m looking to collaborate on IT companies 
+- 👀 I’m interested in python, Django and ReactJs technology.
+- 🌱 I’m currently learning ReactJs technology
+- 💞️ I’m looking to work in IT company 
 - 📫 How to reach me : jayp8816@gmail.com
 
 <!---
